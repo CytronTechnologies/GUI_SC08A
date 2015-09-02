@@ -1,0 +1,181 @@
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project1\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project1new\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project2new -\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project3new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project4new -\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project5new - - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.application
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.application
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.application
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+G:\SC08A VB project6new - - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project7new - - Copy - Copy - Copy\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.application
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\user\Desktop\SC08A complete Data FILE\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+G:\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+G:\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+G:\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.application
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.exe
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.pdb
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\bin\Debug\SC08A VB project1.xml
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A_VB_project1.SC08A_VB.resources
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A_VB_project1.Resources.resources
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.exe.manifest
+C:\Users\Phang\Desktop\SC08A VB project7new\SC08A VB project1\obj\Debug\SC08A VB project1.application
